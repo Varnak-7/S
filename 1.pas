@@ -1,4 +1,4 @@
-﻿program aaa;
+﻿program 1;
 var 
   a:string;
   b,c,d:real;
