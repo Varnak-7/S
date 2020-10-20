@@ -2,6 +2,7 @@
 var 
   a:string;
   b,c,d:real;
+  e:integer;
 
 
   begin
@@ -12,6 +13,9 @@ var
     readln(c);
     d:=b*c;
     Writeln('Площадь=',d);
+    
+    writeln(e);
+    
  
    
     
