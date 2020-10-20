@@ -4,7 +4,12 @@ var
   b,c,d:real;
   e:integer;
 
-
+ procedure kkkk;
+ begin
+ 
+ writeln('3333333');
+ end;
+ 
   begin
     writeln('Программа вычисления площади прямоугольника');
     writeln('Введите значение стороны 1');
